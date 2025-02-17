@@ -264,5 +264,5 @@ Database Integration for Persistent Storage.
 11️ Conclusion
 The Animal Shelter Manager efficiently handles intake and adoption processes using Java's Queue data structure. The project demonstrates modular, scalable, and efficient code, making it an excellent foundation for future enhancements.
 
-Developed By: Akhtar Hossain | Date: February 2025
+Developed By: Mohammad Akhtar Hossain | Date: February 2025
 For more details, contact: [mohammad.hossain@keyin.com]
